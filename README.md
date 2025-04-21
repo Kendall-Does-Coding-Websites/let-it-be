@@ -28,7 +28,7 @@ If you would like dark mode on this site, you can toggle dark mode on or off by 
 
 ## Check it out here
 
-The project website is hosted [here](https://kendalldoescoding.gq/letitbe)!
+The project website is hosted [here](https://kencodes.tech/letitbe)!
 
 Make sure you check it out.
 
